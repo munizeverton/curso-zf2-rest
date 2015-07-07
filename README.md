@@ -7,3 +7,5 @@ Aula 1 - Preparando o ambiente
  - Vagrant      - http://www.zend.com/en/downloads
  - ZendServer   - http://www.zend.com/en/downloads
  - ZendSkeleton - https://github.com/zendframework/ZendSkeletonApplication
+
+TESTE
